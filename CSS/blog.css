@@ -1,0 +1,96 @@
+.blog_title{
+    font-size: 50px;
+    font-weight: 600px;
+    font-family: 'poppins_semibold';
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+.container{
+    margin-top: 40px;
+    margin-left: 75px;
+    width: 1250px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.blog_text{
+    width: 618px;
+}
+.blog_text .p1{
+    margin-top: 30px;
+    font-size: 36px;
+    font-family: 'poppins_semibold_italic';
+}
+
+.blog_text .p2{
+    width: 580px;
+    font-size: 20px;
+    margin-top: 20px;
+    font-family: 'poppins_regular';
+}
+
+
+.blog_news{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.news{
+    display: inline-block;
+    width:275px;
+    margin-top: 86px;
+    margin-bottom: 50px;
+}
+.news img{
+    width: 100%;
+}
+
+.news_title{
+    font-family: 'poppins_medium';
+    font-size: 14px;
+    margin-top: 14px;
+    width: 100%;
+}
+
+.news_text{
+    font-size: 10px;
+    font-family: 'poppins_regular';
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'poppins_semibold_italic';
+    src: url(../fonts/Poppins-SemiBoldItalic.ttf);
+}
+@font-face {
+    font-family: 'poppins_itlic';
+    src: url(../fonts/Poppins-Italic.ttf);
+}
+@font-face {
+    font-family: 'poppins_medium';
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family: 'poppins_regular';
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: 'poppins_semibold';
+    src: url(../fonts/Poppins-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'oswald_medium';
+    src: url(../fonts/Oswald-Medium.ttf);
+}

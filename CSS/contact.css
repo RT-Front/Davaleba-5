@@ -1,0 +1,179 @@
+.contact_main{
+    margin-top: 65px;
+    margin-bottom: 120px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.registration{
+    width: 580px;
+}
+
+.contact_headline{
+    font-size: 28px;
+    font-family: 'poppins_medium';
+}
+
+.headline_content{
+    margin-top: 10px;
+    font-size: 18px;
+    font-family: 'poppins_regular';
+    color: #000000B8;
+}
+
+.first_last_name{
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.first_name{
+    font-size: 16px;
+    font-family: 'poppins_medium';
+    color: #000000B8;
+}
+
+.last_name{
+    font-size: 16px;
+    font-family: 'poppins_medium';
+    color: #000000B8;
+}
+
+.first_name_input{
+    padding: 12px 15px;
+    border: 1px solid #7E7E7E;
+    margin-top: 11px;
+    border-radius: 6px;
+    font-size: 16px;
+    font-family: 'poppins_regular';
+}
+
+.last_name_input{
+    padding: 12px 15px;
+    border: 1px solid #7E7E7E;
+    margin-top: 11px;
+    border-radius: 6px;
+    font-size: 16px;
+    font-family: 'poppins_regular';
+}
+
+
+.email{
+    margin-top: 25px;
+    font-size: 16px;
+    font-family: 'poppins_medium';
+    color: #000000B8;
+}
+
+.email_input{
+    width: 550px;
+    border: 1px solid #7E7E7E;
+    padding: 12px 15px;
+    margin-top: 11px;
+    border-radius: 6px;
+    font-size: 16px;
+    font-family: 'poppins_regular';
+}
+
+.phone{
+    margin-top: 25px;
+    font-size: 16px;
+    font-family: 'poppins_medium';
+    color: #000000B8;
+}
+
+
+.phone_number{
+    width: 520px;
+    border: 1px solid #7E7E7E;
+    padding: 12px 0px 12px 60px;
+    margin-top: 11px;
+    border-radius: 6px;
+    font-size: 16px;
+    font-family: 'poppins_regular';
+}
+
+.chevron{
+    position: absolute;
+    margin-top: 28px;
+    margin-left: 35px;
+}
+
+.ge{
+    margin-left: 10px;
+    margin-top: 28px;
+    position: absolute;
+    font-size: 18px;
+    color: #000000B8;
+    font-family: 'poppins_medium';
+}
+
+.message{
+    margin-top: 25px;
+    font-size: 16px;
+    font-family: 'poppins_medium';
+    color: #000000B8;
+}
+
+
+.message_text{
+    width: 580px;
+    border: 1px solid #7E7E7E;
+    height: 130px;
+    border-radius: 6px;
+    margin-top: 11px;
+}
+
+.registration_inputs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+button{
+    font-family: 'poppins_medium';
+    font-size: 18px;
+    margin-top: 25px;
+    color: white;
+    border-radius: 6px;
+    background-color: #3F69FF;
+    padding: 10px 35px 10px 35px;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'poppins_semibold_italic';
+    src: url(../fonts/Poppins-SemiBoldItalic.ttf);
+}
+@font-face {
+    font-family: 'poppins_itlic';
+    src: url(../fonts/Poppins-Italic.ttf);
+}
+@font-face {
+    font-family: 'poppins_medium';
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family: 'poppins_regular';
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: 'poppins_semibold';
+    src: url(../fonts/Poppins-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'oswald_medium';
+    src: url(../fonts/Oswald-Medium.ttf);
+}
